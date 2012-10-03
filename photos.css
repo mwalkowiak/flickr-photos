@@ -18,5 +18,5 @@ body {
 .photo,
 .photo img {
     min-width: 160px;
-    max-width: 240px;
+    max-width: 200px;
 }
